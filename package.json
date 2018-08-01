@@ -1,0 +1,20 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca de js com tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/douglaspe/js-tdd.git)"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Douglas Pereira <douglaspe15@gmail.com> (http://virtualgaia.com.br/sites/)",
+  "license": "MIT"
+}
